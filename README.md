@@ -54,9 +54,6 @@ Total Interest Paid: $206,016.60
 ## Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements.
 
-## License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 ## Contact
 For any questions or suggestions, please reach out to [Your Name] at [Your Email] or visit [Your GitHub Profile].
 
